@@ -7,7 +7,9 @@ Result  - is the .xml file, whitch you can import in Zabbix.
 Default output screen orientation:
 *	hosts - columns
 *	graps - strings
+
 ## Options ##
+
 *	**-h <PATH_TO_HOSTS_FILE>** - set path to file with list of hosts
 *	**-g <PATH_TO_GRAPHS_FILE>** - set path to file with list of graps
 *	**-n <SCREEN_NAME>** - set name of new screen
